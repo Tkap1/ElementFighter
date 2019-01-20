@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/earthquake.wav-6a4b45fd9e2f7f1a602730c3f5f38740.sample"
+
+[deps]
+
+source_file="res://Assets/earthquake.wav"
+dest_files=[ "res://.import/earthquake.wav-6a4b45fd9e2f7f1a602730c3f5f38740.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=true
+compress/mode=0
